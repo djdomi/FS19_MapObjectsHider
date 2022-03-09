@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<modDesc descVersion="${descVersion}">
-	<author>${author}</author>
-	<version>${version}</version>
+<modDesc descVersion="62">
+	<author>Forked by djdomi from royal-modding</author>
+	<version>1.3.3.7</version>
 	<title>
-		<en>${title}</en>
+		<en>Forked Hide Objects</en>
 	</title>
 	<description>
 		<en>
 			<![CDATA[
+
+I've just forked this for testing purposes, since the idea behind is maybe with easy actions it would be possible to release this again and merge  to the original author.
+
+
 Have you ever felt like you can't join two fields because of a rock that's right in the middle of them, or you can't build a shed because of some objects that take up space?
 These will no longer be problems thanks to "Map Objects Hider", this mod will let you permanently remove objects, placeables, trees and gates from your map.
 You can open the mod settings panel by pressing RSHIFT + R
